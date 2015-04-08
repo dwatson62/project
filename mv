@@ -1,0 +1,5 @@
+MV
+
+The MV command means to move a file from one location to another.
+It can also be used to rename files.
+Its not like copying and pasting, as it deletes the original. More like cut and paste.
