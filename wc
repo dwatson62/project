@@ -1,0 +1,8 @@
+WC
+
+The wc command counts the number of lines, words and bytes (in that order) of a given file
+Example, to find the word count of file grep
+
+wc grep
+
+And you can use these parameters too: -w (words only) -l (lines only) -c (bytes only)
