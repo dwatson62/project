@@ -1,0 +1,5 @@
+GREP
+
+The grep function searches the file for any given characters or phrases, and prints that line.
+Example, to search for the word "copy" in the file cp:
+grep "copy" cp
